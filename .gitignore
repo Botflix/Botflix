@@ -1,0 +1,15 @@
+# IDE setting
+.idea/
+.vscode/
+
+#Python3 Cahces
+*.pyc
+__pycache__/
+
+# It is important source!
+tokens.py
+
+# Database
+db.bin
+example.bin
+webhooks.bin
